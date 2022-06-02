@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=newchakrit&label=Profile%20views&color=0e75b6&style=flat" alt="newchakrit" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack, NextJS, Typescript**
+- 🌱 I’m currently learning **Golang, MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://newchakrit.github.io/](https://newchakrit.github.io/)
 
