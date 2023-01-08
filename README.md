@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://newchakrit.github.io/](https://newchakrit.github.io/)
 
-- 💬 Ask me about **anything except money 🤭**
+- 💬 You can ask me **anything except money 🤭**
 
 - 📫 How to reach me **chakrittna@gmail.com**
 
